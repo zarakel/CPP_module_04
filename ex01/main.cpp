@@ -24,6 +24,5 @@ int main()
 	}
 	for (int a = 0; a != b; a++)
 		delete k[a];
-	while (1);
 	return 0;
 }	
